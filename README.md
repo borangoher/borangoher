@@ -8,7 +8,7 @@ Back-end technologies: Node.js, Express.js, Pug/Jade, Python, MongoDB, Mongoose
 
 Misc.: webpack, jest, git/github, npm, Firebase, Linux
 
-Contact me at: boran.goher@boun.edu.tr, borangoher.com, linkedin.com/in/boran-göher.
+Contact me at: boran.goher@boun.edu.tr, www.borangoher.com, [linkedin.com/in/boran-göher](https://www.linkedin.com/in/boran-göher/).
 <!---
 borangoher/borangoher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
