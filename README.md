@@ -9,9 +9,3 @@ Testing: Karma, Jasmine, React Testing Library
 Database: SQL, Postgres, MongoDB, Mongoose
 
 Misc.: webpack, jest, git, npm, Firebase, Linux
-
-Contact me at: borangoher@proton.me, [linkedin.com/in/boran-göher](https://www.linkedin.com/in/boran-göher/).
-<!---
-borangoher/borangoher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
