@@ -1,11 +1,11 @@
-Software Engineer. Likes to engineer clean and maintainable code. Passionate about building reactive and performant front-end components and systems. I am always looking to learn more about web fundamentals and front-end frameworks/tools. Proficient with the technologies provided below. 
+Hello. My name is Boran. I am a pretty good software engineer.
 
-Front-end technologies: HTML5, CSS3, JS(ES6), TypeScript, React.js, Bootstrap, Tailwind, Angular, PrimeNG, Sass
+I work with the following technologies.
 
-Back-end technologies: Node.js, Express.js, Pug/Jade, Python
+Front-end: HTML, CSS, JavaScript, TypeScript, React.js, Angular, Vue.js
 
-Testing: Karma, Jasmine, React Testing Library
+Back-end: Node.js, Express.js, Python
 
-Database: SQL, Postgres, MongoDB, Mongoose
+Database: SQL, Postgres, MongoDB
 
-Misc.: webpack, jest, git, npm, Firebase, Linux
+Misc.: Git, Linux
