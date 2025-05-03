@@ -6,6 +6,6 @@ Front-end: HTML, CSS, JavaScript, TypeScript, React.js, Angular, Vue.js
 
 Back-end: Node.js, Express.js, Python
 
-Database: SQL, Postgres, MongoDB
+DevOps: Git, Linux, Docker, AWS
 
-Misc.: Git, Linux
+Languages: English, Turkish
